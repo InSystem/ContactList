@@ -6,4 +6,4 @@
 
 Example output should look like this...|| Get in touch if you have trouble launching the app!
 
-<img width="152" alt="capture" src="https://user-images.githubusercontent.com/91548582/143275663-1f86b94a-f115-47eb-bb3e-2ca75d45d626.PNG">
+<img width="170" alt="capture" src="https://user-images.githubusercontent.com/91548582/143285626-943f3852-2790-4539-bf9c-5f8bffd94391.PNG">
